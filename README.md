@@ -29,13 +29,13 @@ In addition to performing linear classification, SVMs can efficiently perform a 
 # Visualization Results
 
 
-![Pie Chart For Negative Reviews](https://github.com/abhishekparve/Customer-Feedback-Analysis-Using-Machine-Learning/blob/master/Images/neg_pie.png)
+![Pie Chart For Negative Reviews](https://github.com/191fa04431/Customer-feedback-analysis-using-machine-learning/blob/main/Images/neg_pie.png).
 
  
 # Conclusion
 
-The reviews received from the customers help business to make correct decision and to increase their profit. With the expansion of internet large amount of feedback/reviews can be received. “Customer Feedback Analysis ” will summarize all the reviews which will help product manufacturers to know customer opinion on different product features and help in improving the market strategy as per customer needs. 
-It will help the support teams in identifying most frequent issues faced by customer, so that some customizations can be made to resolve them in quick time. The system will help business to maintain their market position and attract more customers. 
+The reviews received from the customers help businesses to make correct decisions and to increase their profit. With the expansion of the internet large amount of feedback/reviews can be received. “Customer Feedback Analysis ” will summarize all the reviews which will help product manufacturers to know customer opinion on different product features and help in improving the market strategy as per customer needs. 
+It will help the support teams in identifying most frequent issues faced by customer so that some customizations can be made to resolve them in quick time. The system will help business to maintain their market position and attract more customers. 
 
 
  
